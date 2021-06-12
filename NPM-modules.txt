@@ -1,0 +1,5 @@
+npm init -y
+npm i -s body-parser
+npm i -s ejs
+npm i -s express express-session mysql req-flash
+
